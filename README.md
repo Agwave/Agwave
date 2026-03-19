@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] | AI Agent & Knowledge Graph Architect
+# 👋 Hi, I'm Agwave(chenyinbo） | AI Agent & Knowledge Graph Architect
 
 ### 🤖 架构 AI 与图智能的未来 | Architecting the Future of Agentic AI
 
@@ -39,8 +39,8 @@ I leverage AI intelligence to accelerate development and ensure code quality.
 
 ### 📈 数据统计 / GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourID]&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourID]&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Agwave&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agwave&layout=compact&theme=radical)
 
 ---
 *📍 Based in Shenzhen, China | 欢迎关于 Graph-AI、智能 ETL 和 Agentic RAG 的技术交流与合作。*
