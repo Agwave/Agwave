@@ -31,9 +31,9 @@ I specialize in the entire lifecycle of intelligent data: from high-performance 
 我利用前沿的 AI 编程智能来加速开发并确保代码质量。
 I leverage AI intelligence to accelerate development and ensure code quality.
 
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-7434DB?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-24292e?style=for-the-badge&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) 
+![Claude](https://img.shields.io/badge/Claude_Code-7434DB?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub](https://img.shields.io/badge/OpenCode-24292e?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
